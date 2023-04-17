@@ -1,0 +1,23 @@
+type: choice
+is_multiple_choice: true
+options:
+- text: Function can be called only once
+- text: "If the function does not return any meaningful result, then it returns a\
+    \ special value"
+- text: The function should return as many results as it took arguments.
+- text: A function is a subprogram that we can call in the program through the function
+    name
+files:
+- name: src/Main.kt
+  visible: true
+  text: |
+    // You can experiment here, it won’t be checked
+
+    fun main(args: Array<String>) {
+      // put your code here
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/19911#comment
+status: Solved
+record: -1
+local_check: false

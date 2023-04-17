@@ -1,0 +1,20 @@
+type: code
+files:
+- name: src/Main.kt
+  visible: true
+  text: |-
+    import kotlin.math.sqrt
+
+    fun main() {
+        // do not change this code
+        val number = readln().toDouble()
+
+        // write your code below
+    }
+  learner_created: false
+feedback_link: https://hyperskill.org/learn/step/19915#comment
+status: Solved
+feedback:
+  message: <html>Correct solution</html>
+  time: "Fri, 24 Mar 2023 10:59:40 UTC"
+record: -1
